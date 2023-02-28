@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: say
+Version: 0.0.1
+Summary: A program that will use gTTS to make a tts file then read it to you
+Home-page: None yet
+Author: Adonai Afewerki
+Author-email: john.doe@foo.com
+License: Apache License 2.0
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: Use method
+License-File: LICENSE
